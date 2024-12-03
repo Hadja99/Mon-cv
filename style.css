@@ -1,0 +1,48 @@
+
+       img{ 
+        margin: 10px;
+        border: 2px solid;
+        border-radius: 50%;
+        margin-top: 50px;
+        
+
+    }
+       
+      section{
+        margin-top: 2px;
+        width: 700px;
+        position: absolute;
+        top: 20px; 
+        left: 620px;
+        text-align: center;
+      }
+
+      header{
+        
+        background-color: rgb(233, 221, 206);
+        width: 500px;
+        height: 680px;
+        margin-top: 45px;
+        text-align: center;
+      
+       }
+       
+       h2{
+        border: 2px solid black; /* Définir une bordure solide de 2 pixels */
+        border-radius: 15px;
+        background-color: bisque;
+    }
+    
+    
+
+
+
+         
+         
+
+         
+         
+
+        
+      
+        
